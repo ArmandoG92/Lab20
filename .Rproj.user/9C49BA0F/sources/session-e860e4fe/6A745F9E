@@ -1,11 +1,11 @@
 {
     "id": "6A745F9E",
-    "path": null,
-    "project_path": null,
+    "path": "~/GitHub/Lab20/lab20.R",
+    "project_path": "lab20.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "58413208",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1759272852662.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,11 +17,11 @@
         "scrollLine": "21"
     },
     "folds": "",
-    "lastKnownWriteTime": 7454057966332046965,
-    "encoding": "",
+    "lastKnownWriteTime": 1759275792,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1759275416831,
+    "last_content_update": 1759275792300,
     "read_only": false,
     "read_only_alternatives": []
 }
